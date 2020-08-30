@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/leandromineti/my-stack)
+
 <!--
 **leandromineti/leandromineti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
